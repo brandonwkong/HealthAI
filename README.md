@@ -149,6 +149,3 @@ The agent collects:
 | POST | `/chat` | Process message through agent |
 | POST | `/reset` | Reset session (placeholder) |
 
-## License
-
-MIT
