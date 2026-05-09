@@ -1,4 +1,4 @@
-# Health Agent
+# HealthAI
 
 An agentic healthcare intake and triage system using LangGraph for multi-step workflow orchestration with deterministic branching, safety gating, and MCP-based tool execution. Built this out of curiousity to play around with book Langgraph and MCP tools. Working on integrating real appointment scheduling and other MCP tools next!
 
