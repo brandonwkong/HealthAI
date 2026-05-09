@@ -1,0 +1,10 @@
+python-dotenv
+langchain-openai
+langgraph
+llama-index-core
+llama-index-llms-openai
+llama-index-embeddings-openai
+fastapi
+uvicorn
+pydantic
+mcp
